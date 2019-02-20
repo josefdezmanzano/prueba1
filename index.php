@@ -12,9 +12,10 @@ and open the template in the editor.
     <body>
         <?php
       echo "Esto es una prueba";
-      
-            echo "Esto es una prueba";
       echo "Esto es una prueba";
+      echo "Esto es una prueba";
+      
+      echo "esto es la rama de ModificacionesPeligrosas";
 
         // put your code here
         ?>
